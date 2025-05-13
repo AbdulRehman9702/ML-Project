@@ -8,8 +8,12 @@ python script.py
 /////////////////////////////////////////////////////////////////////
 
 . Developed a machine learning model to predict student test scores based on demographic and educational factors.
+
 . Achieved an accuracy of approximately 89% in predicting student performance.
+
 . Utilized the dataset from Kaggle, comprising 1,000 records with 8 features.
+
 . Created a pipeline for scaling purposes.
+
 . Led the project through data collection, preprocessing, exploratory analysis, model training, and evaluation.
 
