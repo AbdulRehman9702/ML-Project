@@ -7,7 +7,9 @@ python script.py
 
 /////////////////////////////////////////////////////////////////////
 
-. Built a machine learning pipeline to predict student performance with 89% accuracy using Scikit-learn.  
-. Performed data collection, preprocessing, and feature engineering to prepare robust datasets for model training.  
-. Utilized DVC for data version control and MLflow for experiment tracking, ensuring reproducibility and scalability.  
-. Optimized model performance through hyperparameter tuning and evaluation metrics analysis.
+. Developed a machine learning model to predict student test scores based on demographic and educational factors.
+. Achieved an accuracy of approximately 89% in predicting student performance.
+. Utilized the dataset from Kaggle, comprising 1,000 records with 8 features.
+. Created a pipeline for scaling purposes.
+. Led the project through data collection, preprocessing, exploratory analysis, model training, and evaluation.
+
