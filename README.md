@@ -5,11 +5,17 @@ MLFLOW_TRACKING_USERNAME=AbdulRehman9702 \
 MLFLOW_TRACKING_PASSWORD=da156f7da01db3159cd02885307e0434f1f2a0b3 \
 python script.py
 //////////////////////////////////////////////////////////////////////
-#Technologies Used
+
+## Technologies Used
+
 . Python
+
 . Scikit-Learn
+
 . MLflow
+
 . MySQL
+
 . DCV
 
 /////////////////////////////////////////////////////////////////////
